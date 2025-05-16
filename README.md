@@ -17,6 +17,7 @@ Email Service: Nodemailer with Gmail SMTP
 🔐 Environment Variables
 Create a .env file in the root directory of your backend project and add the following environment variables:
 
+MongoURI=your_mongodb_connection_string
 PORT=3500
 JWT_SECRET_KEY=your_jwt_secret_key
 
